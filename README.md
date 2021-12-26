@@ -1,4 +1,5 @@
 # Club-Music
+A web app where you can create a room and invite your friends to enjoy group music
 
 🧰 Techs Used
 
